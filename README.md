@@ -1,4 +1,4 @@
-# Toronto Beach Water Quality Dashboard (Tableau)
+# Toronto Beach Water Quality Analysis Dashboard (Tableau)
 
 An interactive data visualization project analyzing E.Coli levels across Toronto beaches.
 
