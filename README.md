@@ -25,7 +25,7 @@
 - Visual map makes it easy to monitor unsafe swimming conditions
 
 ## 📌 Screenshot
-![Dashboard Screenshot](insert_screenshot_name.png)
+![Dashboard Screenshot](1-d265efed.jpg)
 
 ## 🔗 Demo
 You can download and view the full dashboard using [Tableau Public](https://public.tableau.com/en-us/s/download)
