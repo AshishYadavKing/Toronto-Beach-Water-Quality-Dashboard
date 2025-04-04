@@ -19,10 +19,12 @@ An interactive data visualization project analyzing E.Coli levels across Toronto
 - Screenshots of dashboard
 - This `README.md`
 
-## Insights
-- E.Coli levels spiked in 2009 — further investigation needed
-- Sunnyside Beach consistently shows higher levels than others
-- Visual map makes it easy to monitor unsafe swimming conditions
+## Key Insights:
+
+2009 saw an extreme spike in E. Coli counts – could be due to testing anomalies or environmental events (remains a red flag).
+Summer months (May–August) see a noticeable increase in E. Coli – just as people are flocking to beaches!
+Weekends show consistently higher E. Coli levels – possibly due to increased human activity or delayed water sampling.
+Sunnyside Beach often has higher average E. Coli levels than Marie Curtis Park – something to consider for your next beach day.
 
 ## Screenshot
 ![Dashboard Screenshot](1-d265efed.jpg)
